@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**rofaelaa/rofaelaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é rafaela mendes 
 
-Here are some ideas to get you started:
+- Estou estudndo alura 
+- Estou me desenvolvendo na liguaguem JavaScript
+- Utilizo esse espaço para minha organizaçâo e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Você entrar em contato comigo 📬
+
+ rafaela.sivirino@escola.pr.gov.br
+ 
+ @rafa.ela_mendes 
+
+![]( https://media.tenor.com/Y4YWMFAXMBwAAAAd/neymar-neymar-gif.gif)
